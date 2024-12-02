@@ -1,5 +1,7 @@
 May 2023 Aaron Celeste
 
+Documentation: https://munin.uit.no/bitstream/handle/10037/29335/thesis.pdf?sequence=2&isAllowed=y
+
 CODS Installation
 
 Original Development Environment:
