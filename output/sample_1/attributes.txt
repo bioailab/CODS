@@ -1,0 +1,78 @@
+today's date: 2023-04-06
+Timestamp: 13:44
+Coordinate Grid Center Point XYZ is always: [0, 0, 700]
+One entity after another-little PSFs
+1 Samples
+200 Frames
+Max X/Y: 9000 Nanometers
+Canvas Width & Height: 18000 Nanometers
+Canvas Width & Height: 428 Pixels
+Printing GT images
+Printing Tiff images
+Parallel Samples
+sequential PSF
+Not printing to CSV
+Production Mode (high number of points)
+rohit_behavior is turned ON with a 0% chance of split & 3% chance of seek
+Disabling GUI
+
+Network: 0 (1=yes, 0=no)
+Dissolve: 0 (1=yes, 0=no)
+2 Mitos
+Width Range: 300 - 400
+max_mito_length: 5000
+Mitochondria Density: 2
+Mitochondria Z: 600 - 800
+Elasticity: 8%
+Rotate Speed Range: 0 - 0
+Wiggle Intensity Range: 30 - 60
+Drift Speed Range: 0 - 0
+Seek Speed Range: 200 - 201
+Probability of Merge: 100.0%
+Probability of Split on Merge: 0.0%
+
+number_of_vesicles range: 0 - 0
+vesi radius range: 50 - 300
+
+num_basis: 100
+rho_samples: 1000
+magnification: 100.0
+numerical_aperture: 1.4
+coverslip_RI_design_value: 1.515
+coverslip_RI_experimental_value: 1.515
+immersion_medium_RI_design_value: 1.515
+immersion_medium_RI_experimental_value: 1.515
+specimen_refractive_index_RI: 1.33
+microns_working_distance_immersion_medium_thickness_design_value: 150
+microns_coverslip_thickness_experimental_value: 170
+microns_coverslip_thickness_design_value: 170
+microscope_tube_length_in_microns: 200000.0
+number_of_vesicles: 0
+mito_wiggle_intensity: [55, 54]
+mito_seek_speed: [201, 200]
+mito_drift_speed: [0, 0]
+mito_widths: [385, 354]
+rotate_speed: [0, 0]
+SAMPLE 9
+
+Frame 1
+Mito 0 center point: [-3744.769170528445, 4228.257648734486]
+Mito 0 length: 3964.681063003376
+Mito 1 center point: [4911.656851198629, -2766.8683380327293]
+Mito 1 length: 4519.352560382798
+
+Frame 18
+SEEK initiated. Mito 0 seeking 1
+
+Frame 60
+0 seeked 1 on curve points 3 and 0
+0 center point: [2618.4182260126336, -1563.2591103691955]
+1 center point: [5036.906851198629, -2929.8683380327293]
+Frame 60
+SEEK Canceled. Mito 0 no longer seeking 1. Reason: seeker reached seeked
+
+Merged
+[[[1, 3, 0]], [[0, 0, 3]]]
+
+Columns in Rohit CSV: 2
+Timestamp: 22:30
