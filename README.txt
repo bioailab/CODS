@@ -2,6 +2,8 @@ May 2023 Aaron Celeste
 
 Documentation: https://munin.uit.no/bitstream/handle/10037/29335/thesis.pdf?sequence=2&isAllowed=y
 
+generate automatically labeled data for machine learning applications in subcellular organelle research. It produces dynamic, simulations of mitochondria behaviors like fission, fusion, and kiss-and-run, enabling the creation of extensive datasets for training algorithms. With customizable parameters for organelle behavior, count, and simulated microscopy settings
+
 CODS Installation
 
 Original Development Environment:
